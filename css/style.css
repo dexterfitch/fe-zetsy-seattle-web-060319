@@ -30,6 +30,24 @@ header .wrapper {
 	padding: 0 40px 5px;
 }
 
+/* Write all remaining styles here */
+
+/*Responsive*/
+img {
+  width: 100%;
+}
+
+/*Grid*/
+.col-3 {
+  display: inline-block;
+  width: 24.5%;
+}
+
+.col-3:first-of-type {
+  margin-left: 0;
+}
+
+/*Styles*/
 p {
   font-size: 1em;
   color: rgb(85, 85, 85);
@@ -50,36 +68,23 @@ h2 {
   font-size: 2em;
 }
 
-/* Write all remaining styles here */
-
-/*Responsive*/
-img {
-  width: 100%;
-}
-
-/*Grid*/
-.col-3 {
-  display: inline-block;
-  width: 24.5%;
-}
-.col-3:first-of-type {
-  margin-left: 0;
-}
-
-/*Styles*/
 #about img {
   border: 5px solid #98ADA6;
 }
+
 #about a {
   color: #1783BB;
   text-decoration: none;
 }
+
 #about a:hover {
   text-decoration: underline;
 }
+
 .press-image {
   border: 5px solid #CCC;
 }
+
 .press-image:hover {
   border-color: #6F7F7A;
 }
