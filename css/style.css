@@ -91,6 +91,9 @@ h2 {
 
 footer {
   margin-top: 2em;
+}
+
+footer p {
   font-size: 0.75em;
   text-align: right;
 }
