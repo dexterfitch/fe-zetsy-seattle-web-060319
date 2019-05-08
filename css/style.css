@@ -26,6 +26,13 @@ body {
 	padding: 0 45px 20px;
 }
 
+header .wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0;
+}
+
 p {
   font-size: 1em;
   color: rgb(85, 85, 85);
