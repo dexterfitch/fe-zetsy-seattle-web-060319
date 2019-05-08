@@ -33,11 +33,11 @@ img {
 /*Grid*/
 .col-3 {
   display: inline-block;
-  width: 23%;
-  padding-left: 2%;
+  width: 23.5%;
+  margin-left: 2%;
 }
 .col-3:first-of-type {
-  padding-left: 0;
+  margin-left: 0;
 }
 
 /*Clearfix*/
