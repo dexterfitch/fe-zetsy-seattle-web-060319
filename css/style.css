@@ -34,3 +34,13 @@ body {
 .col-3:first-of-type {
   margin-left: 0;
 }
+
+/*Clearfix*/
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
