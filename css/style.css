@@ -25,6 +25,10 @@ body {
 
 /* Write all remaining styles here */
 
+/*Responsive*/
+img {
+  width: 100%;
+}
 
 /*Grid*/
 .col-3 {
