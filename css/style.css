@@ -33,7 +33,7 @@ img {
 /*Grid*/
 .col-3 {
   display: inline-block;
-  width: 24%;
+  width: 23.5%;
   margin-left: 1%;
 }
 .col-3:first-of-type {
