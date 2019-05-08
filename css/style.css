@@ -47,6 +47,9 @@ img {
   color: #1783BB;
   text-decoration: none;
 }
+#about a:hover {
+  text-decoration: underline;
+}
 .press-image {
   border: 5px solid #CCC;
 }
