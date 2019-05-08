@@ -23,6 +23,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+p {
+  color: rgb(85, 85, 85);
+}
+
 /* Write all remaining styles here */
 
 /*Responsive*/
