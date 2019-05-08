@@ -28,6 +28,7 @@ body {
 
 /*Grid*/
 .col-3 {
+  float: left;
   width: 23.5%;
   margin-left: 2%;
 }
