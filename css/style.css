@@ -40,6 +40,9 @@ img {
 }
 
 /*Styles*/
+#about img {
+  border: 5px solid   #98ada6;
+}
 .press-image {
-    border: 5px solid #CCC;
+  border: 5px solid #CCC;
 }
