@@ -3,6 +3,11 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
+* {
+  box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
 
 body {
 	background: #F3EBE9;
