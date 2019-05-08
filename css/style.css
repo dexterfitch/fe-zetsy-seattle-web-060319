@@ -88,3 +88,9 @@ h2 {
 .press-image:hover {
   border-color: #6F7F7A;
 }
+
+footer {
+  color: #000;
+  font-size: 0.75em;
+  text-align: right;
+}
