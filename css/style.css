@@ -18,3 +18,13 @@ body {
 }
 
 /* Write all remaining styles here */
+
+
+/*Grid*/
+.col-3 {
+  width: 23.5%;
+  margin-left: 2%;
+}
+.col-3:first-of-type {
+  margin-left: 0;
+}
