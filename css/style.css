@@ -46,3 +46,6 @@ img {
 .press-image {
   border: 5px solid #CCC;
 }
+.press-image:hover {
+  borde-color: #CCC;
+}
