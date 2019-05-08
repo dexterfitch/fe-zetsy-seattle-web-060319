@@ -81,11 +81,11 @@ h2 {
   text-decoration: underline;
 }
 
-.press-image {
+.press-image img {
   border: 5px solid #CCC;
 }
 
-.press-image:hover {
+.press-image img:hover {
   border-color: #6F7F7A;
 }
 
