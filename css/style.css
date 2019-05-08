@@ -43,6 +43,10 @@ img {
 #about img {
   border: 5px solid #98ADA6;
 }
+#about a {
+  color: #1783bb;
+  text-decoration: none;
+}
 .press-image {
   border: 5px solid #CCC;
 }
